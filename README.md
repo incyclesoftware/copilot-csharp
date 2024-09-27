@@ -8,7 +8,7 @@ This system is designed to provide a RESTful API to manage the Incycle Airlines 
 
 BUT...
 
-It is no complete yet! Let's work together to make it better!
+It is not complete yet! Let's work together to make it better!
 
 * Fix the bugs
 * Finish the POC

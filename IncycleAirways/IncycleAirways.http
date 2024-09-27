@@ -1,0 +1,17 @@
+@IncycleAirways_HostAddress = http://localhost:5292
+
+GET {{IncycleAirways_HostAddress}}/flights/version
+Accept: application/json
+
+###
+GET {{IncycleAirways_HostAddress}}/flights/view/New%20York/Atlanta
+Accept: application/json
+
+###
+GET {{IncycleAirways_HostAddress}}/flights/from/New%20York
+Accept: application/json
+
+###
+GET {{IncycleAirways_HostAddress}}/passengers/version
+###
+GET {{IncycleAirways_HostAddress}}/passengers/search/John

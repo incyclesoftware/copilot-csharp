@@ -1,0 +1,77 @@
+Flight Number, Origin, Destination, Departure Time, Arrival Time, Capacity
+INCL001LND, New York, Los Angeles, 08:00 AM, 11:00 AM, 150
+INCL002CHI, Chicago, Miami, 09:30 AM, 12:30 PM, 200
+INCL003SFO, San Francisco, Seattle, 10:45 AM, 12:15 PM, 180
+INCL004BOS, Boston, Washington D.C., 11:15 AM, 12:45 PM, 160
+INCL005LAS, Las Vegas, Denver, 12:30 PM, 02:00 PM, 190
+INCL006HOU, Houston, Dallas, 01:45 PM, 03:15 PM, 170
+INCL007ATL, Atlanta, Orlando, 03:00 PM, 05:00 PM, 220
+INCL008PHX, Phoenix, San Diego, 04:30 PM, 06:00 PM, 200
+INCL009DET, Detroit, Minneapolis, 06:15 PM, 07:45 PM, 180
+INCL010PHL, Philadelphia, Charlotte, 07:30 PM, 09:00 PM, 160
+INCL011LND, New York, Los Angeles, 08:45 PM, 11:45 PM, 150
+INCL012CHI, Chicago, Miami, 10:00 PM, 01:00 AM, 200
+INCL013SFO, San Francisco, Seattle, 11:15 PM, 12:45 AM, 180
+INCL014BOS, Boston, Washington D.C., 12:45 AM, 02:15 AM, 160
+INCL015LAS, Las Vegas, Denver, 02:00 AM, 03:30 AM, 190
+INCL016HOU, Houston, Dallas, 03:15 AM, 04:45 AM, 170
+INCL017ATL, Atlanta, Orlando, 04:30 AM, 06:30 AM, 220
+INCL018PHX, Phoenix, San Diego, 06:00 AM, 07:30 AM, 200
+INCL019DET, Detroit, Minneapolis, 07:15 AM, 08:45 AM, 180
+INCL020PHL, Philadelphia, Charlotte, 08:30 AM, 10:00 AM, 160
+INCL021LND, New York, Los Angeles, 09:45 AM, 12:45 PM, 150
+INCL022CHI, Chicago, Miami, 11:00 AM, 02:00 PM, 200
+INCL023SFO, San Francisco, Seattle, 12:15 PM, 01:45 PM, 180
+INCL024BOS, Boston, Washington D.C., 01:45 PM, 03:15 PM, 160
+INCL025LAS, Las Vegas, Denver, 03:00 PM, 04:30 PM, 190
+INCL026HOU, Houston, Dallas, 04:15 PM, 05:45 PM, 170
+INCL027ATL, Atlanta, Orlando, 05:30 PM, 07:30 PM, 220
+INCL028PHX, Phoenix, San Diego, 07:00 PM, 08:30 PM, 200
+INCL029DET, Detroit, Minneapolis, 08:15 PM, 09:45 PM, 180
+INCL030PHL, Philadelphia, Charlotte, 09:30 PM, 11:00 PM, 160
+INCL031LND, New York, Los Angeles, 10:45 PM, 01:45 AM, 150
+INCL032CHI, Chicago, Miami, 12:00 AM, 03:00 AM, 200
+INCL033SFO, San Francisco, Seattle, 01:15 AM, 02:45 AM, 180
+INCL034BOS, Boston, Washington D.C., 02:45 AM, 04:15 AM, 160
+INCL035LAS, Las Vegas, Denver, 04:00 AM, 05:30 AM, 190
+INCL036HOU, Houston, Dallas, 05:15 AM, 06:45 AM, 170
+INCL037ATL, Atlanta, Orlando, 06:30 AM, 08:30 AM, 220
+INCL038PHX, Phoenix, San Diego, 08:00 AM, 09:30 AM, 200
+INCL039DET, Detroit, Minneapolis, 09:15 AM, 10:45 AM, 180
+INCL040PHL, Philadelphia, Charlotte, 10:30 AM, 12:00 PM, 160
+INCL041LND, New York, Los Angeles, 11:45 AM, 02:45 PM, 150
+INCL042CHI, Chicago, Miami, 01:00 PM, 04:00 PM, 200
+INCL043SFO, San Francisco, Seattle, 02:15 PM, 03:45 PM, 180
+INCL044BOS, Boston, Washington D.C., 03:45 PM, 05:15 PM, 160
+INCL045LAS, Las Vegas, Denver, 05:00 PM, 06:30 PM, 190
+INCL046HOU, Houston, Dallas, 06:15 PM, 07:45 PM, 170
+INCL047ATL, Atlanta, Orlando, 07:30 PM, 09:30 PM, 220
+INCL048PHX, Phoenix, San Diego, 09:00 PM, 10:30 PM, 200
+INCL049DET, Detroit, Minneapolis, 10:15 PM, 11:45 PM, 180
+INCL050PHL, Philadelphia, Charlotte, 11:30 PM, 01:00 AM, 160
+INCL051LND, New York, Los Angeles, 12:45 AM, 03:45 AM, 150
+INCL052CHI, Chicago, Miami, 02:00 AM, 05:00 AM, 200
+INCL053SFO, San Francisco, Seattle, 03:15 AM, 04:45 AM, 180
+INCL054BOS, Boston, Washington D.C., 04:45 AM, 06:15 AM, 160
+INCL055LAS, Las Vegas, Denver, 06:00 AM, 07:30 AM, 190
+INCL056HOU, Houston, Dallas, 07:15 AM, 08:45 AM, 170
+INCL057ATL, Atlanta, Orlando, 08:30 AM, 10:30 AM, 220
+INCL058PHX, Phoenix, San Diego, 10:00 AM, 11:30 AM, 200
+INCL059DET, Detroit, Minneapolis, 11:15 AM, 12:45 PM, 180
+INCL060PHL, Philadelphia, Charlotte, 12:30 PM, 02:00 PM, 160
+INCL061LND, New York, Los Angeles, 01:45 PM, 04:45 PM, 150
+INCL062CHI, Chicago, Miami, 03:00 PM, 06:00 PM, 200
+INCL063SFO, San Francisco, Seattle, 04:15 PM, 05:45 PM, 180
+INCL064BOS, Boston, Washington D.C., 05:45 PM, 07:15 PM, 160
+INCL065LAS, Las Vegas, Denver, 07:00 PM, 08:30 PM, 190
+INCL066HOU, Houston, Dallas, 08:15 PM, 09:45 PM, 170
+INCL067ATL, Atlanta, Orlando, 09:30 PM, 11:30 PM, 220
+INCL068PHX, Phoenix, San Diego, 11:00 PM, 12:30 AM, 200
+INCL069DET, Detroit, Minneapolis, 12:15 AM, 01:45 AM, 180
+INCL070PHL, Philadelphia, Charlotte, 01:30 AM, 03:00 AM, 160
+INCL071PAR, Paris, New York, 08:30 AM, 11:30 AM, 150
+INCL072LND, London, New York, 09:45 AM, 12:45 PM, 150
+INCL073TLV, Tel Aviv, New York, 11:00 AM, 02:00 PM, 150
+INCL074ROM, Rome, New York, 12:15 PM, 03:15 PM, 150
+INCL075MOW, Moscow, New York, 01:30 PM, 04:30 PM, 150
+INCL076BUE, Buenos Aires, New York, 02:45 PM, 05:45 PM, 150

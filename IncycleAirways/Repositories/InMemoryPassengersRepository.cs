@@ -5,8 +5,7 @@ namespace IncycleAirways.Repositories
     public class InMemoryPassengersRepository : IPassengersRepository
     {
         List<PlanePassenger> passengers = new List<PlanePassenger>();
-        public InMemoryPassengersRepository() {
-            // load mock data from csv file
+        public InMemoryPassengersRepository() {           
 
         }
         public bool AddPassenger(PlanePassenger passenger)

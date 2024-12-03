@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: incycle airways
+  description: A copilot api
+  tags:
+    - service
+spec:
+  type: service
+  owner: incycle-copilot
+  lifecycle: production
+  repository: https://github.com/incyclesoftware/copilot-csharp
